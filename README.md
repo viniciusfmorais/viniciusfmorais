@@ -4,13 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=viniciusfmorais" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3" alt="GitHub Trophy" />
-  </a>
-</p>
-
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -38,6 +31,14 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3" alt="GitHub Trophy" />
+  </a>
+</p>
+
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
