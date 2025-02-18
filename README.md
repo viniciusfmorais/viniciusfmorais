@@ -24,7 +24,7 @@
       <h3>👨‍💻 All of my projects are available at</h3>
       <p><a href="https://github.com/viniciusfmorais?tab=repositories">https://github.com/viniciusfmorais?tab=repositories</a></p>
       <h3>📝 Check out my website on</h3>
-      <p><a href="https://viniciusfmorais.github.io/Vinicius-portfolio/">https://viniciusfmorais.github.io/Vinicius-portfolio/</a></p>
+      <p><a href="https://viniciusfmorais.pages.dev/">https://viniciusfmorais.github.io/Vinicius-portfolio/</a></p>
       <h3>📫 How to reach me:</h3>
       <p><a href="mailto:viniciusfmorais@hotmail.com">viniciusfmorais@hotmail.com</a></p>
       <h3>📝 Check out my linktree on</h3>
