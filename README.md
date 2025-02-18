@@ -1,4 +1,4 @@
-<h1 align="center">  Hi 👋, I'm Vinicius Ferro </h1> 
+<h1 align="center">  Hey there, welcome! 👋, I'm Vinicius Ferro </h1> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viniciusfmorais" alt="Profile Views" />
@@ -33,14 +33,7 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3" alt="GitHub Trophy" />
-  </a>
-</p>
-
-
-
+## 📈 &nbsp;Some Code Stats ##
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfmorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -52,6 +45,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmorais&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </p>
+
+## 🏆 &nbsp; GitHub Profile Trophy##
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
