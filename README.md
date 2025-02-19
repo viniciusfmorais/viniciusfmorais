@@ -10,12 +10,13 @@
       <h3>🔭 I’m currently improving my skills in full-stack development, studying:</h3>
       <h4>💡 Technologies I'm learning:</h4>
       <ul>
-        <li><img align="center" height="15" width="20" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <b>HTML</b> (building modern and responsive interfaces)</li>
-        <li><img align="center" height="15" width="20" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <b>CSS</b> (building modern and responsive interfaces)</li>
-        <li><img align="center" height="15" width="20" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <b>JavaScript</b> (bringing interactivity to the web)</li>
-        <li><img align="center" height="15" width="20" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> <b>Java</b> (strengthening my programming logic)</li>
-        <li><img align="center" height="15" width="20" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"> <b>Node.js</b> (powerful and scalable backend)</li>
-        <li><img align="center" height="15" width="20" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <b>React</b> (creating dynamic and high-performance interfaces)</li>
+        <li><img align="center" height="15" width="20" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <b>HTML</b> (Building modern and responsive interfaces.)</li>
+        <li><img align="center" height="15" width="20" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <b>CSS</b> (Building modern and responsive interfaces.)</li>
+        <li><img align="center" height="15" width="20" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <b>JavaScript</b> (Bringing interactivity to the web.)</li>
+        <li><img align="center" height="15" width="20" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> <b>Java</b> (Strengthening my programming logic.)</li>
+        <li><img align="center" height="15" width="20" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"> <b>Node.js</b> (Powerful and scalable backend.)</li>
+        <li><img align="center" height="15" width="20" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <b>React</b> (Creating dynamic and high-performance interfaces.)</li>
+        <li><img align="center" height="15" width="20" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> <b>MySQL</b> (Relational database management, storing and querying data efficiently.)</li>
       </ul>
       <h4>💻 I'm always looking for new challenges and improving my skills to become a great tech professional! 🚀✨</h4>
       <h4><a href="https://linktr.ee/viniciusfmorais">🔗 Follow me on this journey and feel free to give me tips to improve!</a></h4>
