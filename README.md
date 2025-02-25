@@ -17,6 +17,7 @@
         <li><img align="center" height="15" width="20" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"> <b>Node.js</b> (Powerful and scalable backend.)</li>
         <li><img align="center" height="15" width="20" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <b>React</b> (Creating dynamic and high-performance interfaces.)</li>
         <li><img align="center" height="15" width="20" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> <b>MySQL</b> (Relational database management, storing and querying data efficiently.)</li>
+        <li><img align="center" height="15" width="20" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><b>Python</b> (Strengthening my programming logic.)</li>
       </ul>
       <h4>💻 I'm always looking for new challenges and improving my skills to become a great tech professional! 🚀✨</h4>
       <h4><a href="https://linktr.ee/viniciusfmorais">🔗 Follow me on this journey and feel free to give me tips to improve!</a></h4>
@@ -61,4 +62,6 @@
   <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" height="30" width="40" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+ 
 </div>
